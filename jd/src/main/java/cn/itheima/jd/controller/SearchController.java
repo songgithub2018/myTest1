@@ -1,4 +1,4 @@
-﻿package cn.itheima.jd.controller;
+package cn.itheima.jd.controller;
 
 import cn.itheima.jd.po.Result;
 import cn.itheima.jd.service.SearchService;
@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * 搜索处理器
  */
-//又添加了注解
 @Controller
 public class SearchController {
 
